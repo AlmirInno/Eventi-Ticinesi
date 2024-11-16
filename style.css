@@ -43,7 +43,7 @@ header>nav>ul>li>a:active {
 }
 
 header>section.banner {
-    background: url(../Eventi-Ticinesi/img/banner.jpg);
+    background: url(img/banner.jpg);
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
